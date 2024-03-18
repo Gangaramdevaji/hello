@@ -1,5 +1,5 @@
 class Hello{
 public static void main (strings[]){
-system.out.println("hello world");
+system.out.println("gangaram + ganesh + lucky");
 }
 }
